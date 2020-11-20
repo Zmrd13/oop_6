@@ -77,4 +77,5 @@ int main() {
 
     }
     music.stop();
+    delete [] arr;
 }
